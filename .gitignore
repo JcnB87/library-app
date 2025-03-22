@@ -1,0 +1,34 @@
+# Ignore diretórios do IntelliJ IDEA e Eclipse
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Ignore diretórios de build
+target/
+bin/
+# Ignore diretórios do IntelliJ IDEA e Eclipse
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Ignore diretórios de build
+target/
+bin/
+
+# Ignore arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignore credenciais do Spring Boot
+application.yml
+application-dev.yml
+application-prod.yml
+
+# Ignore logs e caches
+logs/
+*.log
+
